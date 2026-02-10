@@ -79,8 +79,7 @@ ans -> C. selector
 
 ans -> D. kubectl logs svc
 
-### Q20. Two pods in the same namespace want to communicate.
-     What is the recommended Kubernetes way?
+### Q20. Two pods in the same namespace want to communicate. What is the recommended Kubernetes way?
      
 ans -> B. Use Service name
 
@@ -141,4 +140,5 @@ http://`<NodeIP><NodePort>`
 ### 8.Push the README.md file to a Git repository and submit the repository link.
 
 ![](./img/Screenshot%20(217).png)
+
 
